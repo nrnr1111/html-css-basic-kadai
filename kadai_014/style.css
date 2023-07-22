@@ -1,0 +1,30 @@
+.html {
+  font-size: 20px;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+#first-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 3px 3px 5px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+#mofmy {
+  color: skyblue;
+}
+#pofprofile {
+  color: rgb(255,192,203);
+}
+.second-heading1 {
+  color: rgb(255,192,203);
+}
+.second-heading2 {
+  color: skyblue;
+}
+#basic p {
+  font-weight: bold;
+}
